@@ -1,5 +1,5 @@
 <?php
-$conn = mysql_connect("127.0.0.1","software-class","<password>");
+$conn = mysql_connect("127.0.0.1","software-class","5SaDznS56j3CaIUu");
 
 global $user;
 
