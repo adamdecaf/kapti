@@ -1,5 +1,4 @@
 <?php
-error_reporting(E_ALL);
 $conn = mysql_connect("127.0.0.1","software-class","<password>");
 
 global $user;
